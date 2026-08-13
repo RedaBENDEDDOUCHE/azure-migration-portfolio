@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Contoso Cloud Migration — Portfolio AZ-104
+# Contoso Cloud Migration 
 =======
 # Contoso Cloud Migration 
 >>>>>>> 5218f853c826c002d002f1dea6b86712215f029f
