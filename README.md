@@ -1,4 +1,4 @@
-# Contoso Cloud Migration — Portfolio AZ-104
+# Contoso Cloud Migration 
 
 > Migration Azure de bout en bout d'une PME fictive de 150 employés (Contoso Corp), de la fondation réseau à l'exploitation en production. Projet réalisé dans le cadre de la préparation à la certification **AZ-104: Microsoft Azure Administrator**.
 
