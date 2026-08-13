@@ -79,10 +79,4 @@ azure-migration-portfolio/
 └── architecture/              # Schémas (.drawio, .png)
 ```
 
-## 🚀 Pour aller plus loin
-
-_À compléter en Phase 12 : ce qui serait fait avec plus de budget/temps (Azure Firewall, ExpressRoute, multi-région...)._
-<<<<<<< HEAD
-=======
-
 >>>>>>> 5218f853c826c002d002f1dea6b86712215f029f
