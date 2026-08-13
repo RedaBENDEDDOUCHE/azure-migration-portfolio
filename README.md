@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Contoso Cloud Migration 
-=======
 # Contoso Cloud Migration 
 
 
