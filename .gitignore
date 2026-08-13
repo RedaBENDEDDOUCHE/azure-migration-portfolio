@@ -1,0 +1,11 @@
+# Secrets / config locale
+*.env
+.env.local
+*.tfstate
+*.tfstate.backup
+.terraform/
+
+# OS / éditeurs
+.DS_Store
+Thumbs.db
+.vscode/
