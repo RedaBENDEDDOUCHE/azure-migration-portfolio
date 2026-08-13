@@ -2,7 +2,7 @@
 # Contoso Cloud Migration 
 =======
 # Contoso Cloud Migration 
->>>>>>> 5218f853c826c002d002f1dea6b86712215f029f
+
 
 > Migration Azure de bout en bout d'une PME fictive de 150 employés (Contoso Corp), de la fondation réseau à l'exploitation en production. Projet réalisé dans le cadre de la préparation à la certification **AZ-104: Microsoft Azure Administrator**.
 
